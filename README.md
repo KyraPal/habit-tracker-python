@@ -23,6 +23,7 @@ analytics, not on a graphical interface.
 
 To install and run the Habit Tracker, follow these steps:
 
+
 1. Clone or download the project from GitHub to your computer.
 2. Make sure Python is installed
 
@@ -37,6 +38,7 @@ Required:
 
 If Python is not installed, download it from:
 https://www.python.org/downloads/
+
 
 3. Create a virtual environment
 
@@ -59,6 +61,7 @@ Windows
 
 You should now see (.venv) in your terminal.
 
+
 4. Install dependencies
 
 With the virtual environment activated:
@@ -77,6 +80,7 @@ Create the SQLite database:
 ```bash
 python3 -m habit_tracker.cli init
 ```
+
 
 6. (Optional) Load sample data
 

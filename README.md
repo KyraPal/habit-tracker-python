@@ -134,7 +134,6 @@ python -m pytest
 ```
 
 ## Notes
-- The database file is created in the project folder `habits.db`
 - Periodicity supports: `daily`, `weekly`
 
 
